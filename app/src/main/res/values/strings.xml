@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="rmb_hint_label">input RMB</string>
+</resources>
